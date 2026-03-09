@@ -67,10 +67,12 @@ Credit Card Fraud Detection
   
 2. 安装依赖  
 确保已安装 Python 3.8+，然后运行：
+
 ```  
 pip install -r requirements.txt  
-```  
-4. 运行 Notebook  
+```
+
+3. 运行 Notebook  
 启动 Jupyter Lab 或 Notebook，依次运行 notebooks/ 下的脚本：  
 ```  
 jupyter notebook  
@@ -87,6 +89,7 @@ jupyter notebook
 本项目代码: MIT License  
 使用的数据: 遵循各自数据集的开源协议 (CC0 / ODbL)  
 Last Updated: March 2024  
+
 
 
 
