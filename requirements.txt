@@ -1,0 +1,27 @@
+
+# ==========================================
+# End-to-End Risk Control Suite Dependencies
+# ==========================================
+
+# Core Data Processing
+pandas=1.5.0
+numpy=1.23.0
+
+# Machine Learning Algorithms
+scikit-learn=1.2.0
+catboost=1.1.0
+imblearn=0.10.0  # Essential for imbalanced fraud detection
+
+# Credit Scoring Specific
+scorecardpy=0.1.9.2
+
+# Graph Analysis (For Fraud Ring Detection)
+networkx=3.0
+
+# Visualization
+matplotlib=3.6.0
+seaborn=0.12.0
+
+# Development Environment
+jupyter=1.0.0
+ipykernel=6.0.0
